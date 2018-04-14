@@ -2,6 +2,6 @@
 
 Curious who has been leaking your company secrets to the {press|media}?
 
-Canary is a super simple templating language (that you're looking at right now) for generating random messages from a {template|message|sequence of words}. Add a couple synonyms, run it a couple times on your messages and send everyone a different version.
+Canary is a super simple templating language (that you're looking at right now) for generating random messages from a {template|message|sequence of words}. Add a couple {synonyms|options} and send everyone a different version.
 
 {It can do|It{ even|} does} nested messages{ if you're feeling creative}!
